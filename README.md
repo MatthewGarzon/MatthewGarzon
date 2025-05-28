@@ -1,4 +1,4 @@
-Hi, I'm Matthew Garzon, a student at Stony Brook University studying Physics and Applied Mathematics and Statistics(AMS)
+Hi, I'm Matthew Garzon, a second-year student at Stony Brook University studying Physics and Applied Mathematics and Statistics(AMS)
 
 I am currently doing research for Hyeongrak Choi in the Department of Electrical and Computer Engineering
 
