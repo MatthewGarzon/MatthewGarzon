@@ -1,5 +1,7 @@
 Hi, I'm Matthew Garzon, a student at Stony Brook University studying Physics and Applied Mathematics and Statistics(AMS)
+
 I am currently doing research for Hyeongrak Choi in the Department of Electrical and Computer Engineering
+
 I can be reached out to via email: matthew.garzon@stonybrook.edu
 <!--
 **MatthewGarzon/MatthewGarzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
